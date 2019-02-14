@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EpoxyPaginationSample</string>
+    <string name="reddit_post_subreddit">%1$s</string>
+    <string name="reddit_post_title">title: %1$s</string>
+    <string name="reddit_post_author">author: %1$s</string>
+    <string name="reddit_post_date">created at %1$s</string>
+</resources>
